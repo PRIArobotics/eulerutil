@@ -1,5 +1,5 @@
 # eulerutil
-Euler Angle (and Tait-Bryan Angle) Conversion Utility
+Euler Angle (and Tait-Bryan Angle) Conversion Utility in Babylon.js
 
 This Utility support the conversion between the 24 different Euler Angle (and Tait-Bryan) conventions.
 
@@ -9,7 +9,7 @@ Even though the Quaternion API lists an `order` parameter for conversion, this p
 
 ## Supported Conversions
 
-Quaternions to Euler Angles
-Euler Angles to Quaternions
-Rotation Matrix to Euler Angles
-Euler Angles to Euler Angles (Reordering)
+* Quaternions to Euler Angles
+* Euler Angles to Quaternions
+* Rotation Matrix to Euler Angles
+* Euler Angles to Euler Angles (Reordering)
