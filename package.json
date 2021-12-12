@@ -2,16 +2,16 @@
   "name": "eulerutil",
   "version": "1.0.0",
   "description": "",
-  "main": "module.js",
+  "main": "module.mjs",
+  "type": "module",
   "scripts": {
-    "test": "mocha -r esm"
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babylonjs/core": "^4.2.0",
-    "esm": "^3.2.25"
+    "@babylonjs/core": "^5.0.0-alpha.63"
   },
   "devDependencies": {
     "chai": "^4.2.0",

@@ -3,7 +3,7 @@ import {
     eulerToQuaternion,
     reorderEuler,
     rotationMatrixToEuler
-} from "./src/EulerUtil.js"
+} from "./src/EulerUtil.mjs"
 
 export {
     quaternionToEuler,

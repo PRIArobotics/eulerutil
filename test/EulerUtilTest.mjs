@@ -2,7 +2,7 @@ import assert from 'assert';
 import sinon from 'sinon';
 import chai from 'chai';
 import {Axis, NullEngine, Quaternion, Space, TransformNode, Scene, Vector3} from '@babylonjs/core';
-import {eulerToQuaternion, quaternionToEuler} from "../module.js";
+import {eulerToQuaternion, quaternionToEuler} from "../module.mjs";
 
 const {expect} = chai;
 
